@@ -1,5 +1,5 @@
 # wannacry_monero_tracing
-data:
+consolidation_txs.csv contains XMR TXIDs for the consolidation transactions as described in article, as well as the integer identifiers for the TXOs being spent. 
 
 wannashift.json contains the BTC to XMR ShapeShift API data as identified by Neutrino.
 
