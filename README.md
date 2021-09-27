@@ -5,4 +5,4 @@ wannashift.json contains the BTC to XMR ShapeShift API data as identified by Neu
 
 xmr_to_bch_transactions.json contains the XMR to BCH ShapeShift API data.
 
-xmr_to_bch_snapshots.csv contains URLs of waybackmachine snapshots of the XMR to BCH ShapeShift
+bch_to_xmr_archives.csv contains URLs of waybackmachine snapshots of the XMR to BCH ShapeShift. Some were mistakenly not archived prior to ShapeShift plugging the leak. 
